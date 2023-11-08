@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Suppliers>
+  <Supplier>
+    <SupplierID>1</SupplierID>
+    <SupplierName>Texas Concrete Co.</SupplierName>
+    <Location>Austin, TX</Location>
+  </Supplier>
+  <Supplier>
+    <SupplierID>2</SupplierID>
+    <SupplierName>Eco Build Materials</SupplierName>
+    <Location>Houston, TX</Location>
+  </Supplier>
+  <Supplier>
+    <SupplierID>3</SupplierID>
+    <SupplierName>Green Roofing Solutions</SupplierName>
+    <Location>San Antonio, TX</Location>
+  </Supplier>
+</Suppliers>

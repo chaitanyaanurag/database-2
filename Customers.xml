@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Customers>
+  <Customer>
+    <CustomerID>1</CustomerID>
+    <Name>John Doe</Name>
+    <ContactInfo>johndoe@example.com</ContactInfo>
+  </Customer>
+  <Customer>
+    <CustomerID>2</CustomerID>
+    <Name>Jane Smith</Name>
+    <ContactInfo>janesmith@example.com</ContactInfo>
+  </Customer>
+  <Customer>
+    <CustomerID>3</CustomerID>
+    <Name>Alice Johnson</Name>
+    <ContactInfo>alicej@example.com</ContactInfo>
+  </Customer>
+</Customers>

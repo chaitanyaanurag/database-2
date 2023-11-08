@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<HomeDesigns>
+  <HomeDesign>
+    <DesignID>1</DesignID>
+    <DesignName>The Terra</DesignName>
+    <BasePrice>200000</BasePrice>
+  </HomeDesign>
+  <HomeDesign>
+    <DesignID>2</DesignID>
+    <DesignName>The Gaia</DesignName>
+    <BasePrice>250000</BasePrice>
+  </HomeDesign>
+  <HomeDesign>
+    <DesignID>3</DesignID>
+    <DesignName>The Ecolight</DesignName>
+    <BasePrice>180000</BasePrice>
+  </HomeDesign>
+</HomeDesigns>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Materials>
+  <Material>
+    <MaterialID>1</MaterialID>
+    <MaterialName>Reinforced Concrete</MaterialName>
+    <SupplierID>1</SupplierID>
+  </Material>
+  <Material>
+    <MaterialID>2</MaterialID>
+    <MaterialName>Soil-Stabilizer</MaterialName>
+    <SupplierID>2</SupplierID>
+  </Material>
+  <Material>
+    <MaterialID>3</MaterialID>
+    <MaterialName>Green Roofing</MaterialName>
+    <SupplierID>1</SupplierID>
+  </Material>
+</Materials>
